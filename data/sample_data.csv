@@ -1,0 +1,16 @@
+customer_age,monthly_spend,visits,city,subscription,signup_date
+21,120.5,3,Ahmedabad,Yes,2026-01-12
+25,180.0,5,Surat,No,2026-01-19
+32,250.75,8,Vadodara,Yes,2026-02-02
+29,210.0,6,Ahmedabad,Yes,2026-02-10
+41,320.2,9,Rajkot,No,2026-02-15
+35,275.0,7,Surat,Yes,2026-03-01
+23,,4,Ahmedabad,No,2026-03-08
+28,195.5,5,Vadodara,Yes,2026-03-14
+52,410.0,12,Surat,Yes,2026-04-05
+31,230.0,6,Rajkot,No,2026-04-13
+45,360.0,10,Ahmedabad,Yes,2026-04-20
+27,205.0,5,Surat,No,2026-05-02
+38,290.0,8,Vadodara,Yes,2026-05-11
+24,150.0,4,Rajkot,No,2026-05-17
+30,220.0,6,Ahmedabad,Yes,2026-05-25

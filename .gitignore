@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated outputs (keep folders with .gitkeep)
+reports/*
+!reports/.gitkeep
+figures/*
+!figures/.gitkeep
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
